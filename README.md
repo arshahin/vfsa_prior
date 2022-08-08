@@ -1,6 +1,7 @@
 # vfsa_prior
 
-This package demonstrates how one can incorporate the priori information into VFSA optimization algorithm. 
+This package demonstrates how one can incorporate the priori information into VFSA optimization algorithm. Please make sure to check the PDF file provided to give you an idea of different visualizations that you can reproduce.
+
 
 Simply run this code "vfsa_prior_v02.m" and it will find all the dependencies.
 
@@ -28,7 +29,6 @@ You can also customize the way that prior information will be added to VFSA duri
 %%%%%%%% Enter 5 fixed weigth 0.50 
 
 
-Please make sure to check the PDF file provided to give you an idea of different visualizations that you can reproduce.
 
 
 
