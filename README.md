@@ -11,7 +11,7 @@ The current objective function is a 1D finction with a global minimum at (0,0).
 
 There are 7 types of prior PDF are included and you can select by setting prior_type to one the follwing options between 1 to 7. 
 
-%%%%%%%% 1 for A unimodal Prior with low uncertainty :  sharp Gaussian N(0,1)
+1 for A unimodal Prior with low uncertainty :  sharp Gaussian N(0,1)
 %%%%%%%% 2 for A unimodal Prior with high uncertainty: broad Gaussian N(0,3)
 %%%%%%%% 3 for A deviated unimodal Prior simulating : broad Gaussian N(2,3)
 %%%%%%%% 4 for A equiprobable bimodal Prior : N(0,1)+N(-4,1)
